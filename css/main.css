@@ -18,7 +18,7 @@ ol {
 	padding: 0;
 }
 
-ul {
+.planets {
 	list-style-type: lower-roman;
 }
 
@@ -29,7 +29,6 @@ a {
 a:hover {
 	color: #ff3333;
 }
-
 
 figcaption {
 	font-style: italic;
@@ -56,4 +55,10 @@ dt {
 
 .links {
 	list-style-position: circle;
+}
+
+span {
+	font-size: 2.5rem;
+	font-weight: bold;
+	color: 79756f;
 }

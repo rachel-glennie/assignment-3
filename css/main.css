@@ -60,5 +60,6 @@ dt {
 span {
 	font-size: 2.5rem;
 	font-weight: bold;
-	color: 79756f;
+	color: #79756f;
+	line-height: 0.80
 }

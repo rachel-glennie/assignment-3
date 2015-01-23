@@ -4,18 +4,22 @@ html {
 h1, h2, h3 {
 	font-family: 'Bevan', cursive;
 	color: #79756f;
+	line-height: 1.5
 }
 
 body {
-	font-family: 'Georgia', sans-serif;
+	font-family: 'Arial', sans-serif;
 	margin: 0 auto;
-	padding: 0;
 	max-width: 45rem;
 }
 
-li {
+ol {
 	list-style-type: none;
 	padding: 0;
+}
+
+ul {
+	list-style-type: lower-roman;
 }
 
 a {
@@ -24,4 +28,32 @@ a {
 
 a:hover {
 	color: #ff3333;
+}
+
+
+figcaption {
+	font-style: italic;
+	font-size: 0.75rem;
+}
+.quote {
+	padding-left: 2rem;
+	font-family: Georgia;
+	font-style: italic;
+	font-size: 1.5rem
+ }
+
+.neil {
+	font-size: 0.75rem;
+	font-style: italic;
+	color: #79756f;
+	text-align: right;
+}
+
+dt {
+	font-weight: bold;
+	line-height: 1.5
+}
+
+.links {
+	list-style-position: circle;
 }

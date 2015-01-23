@@ -1,8 +1,13 @@
 html {
 	background-color: #dbd6cf;
 }
-body {
+h1, h2, h3 {
 	font-family: 'Bevan', cursive;
+	color: #79756f;
+}
+
+body {
+	font-family: 'Georgia', sans-serif;
 	margin: 0 auto;
 	padding: 0;
 	max-width: 45rem;
@@ -10,4 +15,13 @@ body {
 
 li {
 	list-style-type: none;
+	padding: 0;
+}
+
+a {
+	color: #713837;
+}
+
+a:hover {
+	color: #ff3333;
 }

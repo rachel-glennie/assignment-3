@@ -1,0 +1,13 @@
+html {
+	background-color: #dbd6cf;
+}
+body {
+	font-family: 'Bevan', cursive;
+	margin: 0 auto;
+	padding: 0;
+	max-width: 45rem;
+}
+
+li {
+	list-style-type: none;
+}

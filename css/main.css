@@ -54,7 +54,7 @@ dt {
 }
 
 .links {
-	list-style-position: circle;
+	list-style-type: circle;
 }
 
 span {
